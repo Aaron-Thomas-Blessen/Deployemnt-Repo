@@ -4,7 +4,7 @@ import numpy as np
 from prediction import predict
 
 
-st.title('Classifying Iris Flowers using machine learning')
+st.title('Classifying Iris Flowers using machine learning by Aaron Thomas')
 st.markdown('Toy model to play to classify iris flowers into \
      (setosa, versicolor, virginica) based on their sepal/petal \
     and length/width.')
@@ -32,5 +32,5 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown(
-    '`Create by` [Intel-Unnati](https://github.com/intel-unnati-saintgits/intel-unnati-certificate-programme/blob/main/README.md) | \
+    '`Create by` [Aaron](https://github.com/Aaron-Thomas-Blessen) | \
          `Code:` [GitHub](https://github.com/intel-unnati-saintgits/Model-Deployment-Demo/edit/main/app.py)')
