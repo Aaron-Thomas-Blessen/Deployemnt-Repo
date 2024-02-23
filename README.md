@@ -1,2 +1,2 @@
-# Deployemnt-Repo
-This contain .py files for deployement
+# Model-Deployment-Demo
+Contains python files for model deployment in Streamlit
